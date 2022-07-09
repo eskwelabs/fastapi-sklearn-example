@@ -1,1 +1,3 @@
 #*.joblib
+.vscode
+__pycache__
